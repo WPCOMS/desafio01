@@ -1,5 +1,7 @@
 package com.wpcoms.desafio01.entities;
 
+import org.springframework.stereotype.Component;
+
 public class Order {
 	private Integer code;
 	private Double basic;
